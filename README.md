@@ -2,6 +2,8 @@
 
 **Mod sequel to Star Control II: The Ur-Quan Masters**
 
+> **Note:** This is an updated archive of the original [Google Code project](https://code.google.com/archive/p/project6014/). All original downloads have been preserved as [release assets](https://github.com/jorisvddonk/project6014/releases/tag/0.2.1), and the project wiki — including the Story Creation wiki — has been migrated to this repository's [wiki](https://github.com/jorisvddonk/project6014/wiki).
+
 ## Downloads
 
 All demos and related files are available on the [Releases](https://github.com/jorisvddonk/project6014/releases) page.
